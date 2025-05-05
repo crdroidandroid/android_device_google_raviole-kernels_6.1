@@ -1,0 +1,11 @@
+drops {
+  android_build_drop {
+    build_id: "13202328"
+    target: "raviole"
+    source_file: "s2mpg10-powermeter.ko"
+  }
+  dest_file: "25Q1-13202328/s2mpg10-powermeter.ko"
+  version: "13202328"
+  version_group: "kernel-and-modules"
+  git_project: "device/google/raviole-kernels/6.1"
+}

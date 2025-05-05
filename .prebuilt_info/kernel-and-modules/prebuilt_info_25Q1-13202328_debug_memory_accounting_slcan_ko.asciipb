@@ -1,0 +1,11 @@
+drops {
+  android_build_drop {
+    build_id: "13202328"
+    target: "raviole_debug_memory_accounting"
+    source_file: "slcan.ko"
+  }
+  dest_file: "25Q1-13202328/debug_memory_accounting/slcan.ko"
+  version: "13202328"
+  version_group: "kernel-and-modules"
+  git_project: "device/google/raviole-kernels/6.1"
+}
